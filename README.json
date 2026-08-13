@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "description": "The Future is Now™, try one of these today!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kairos",
+          "description": "The immutable Linux meta-distribution for edge Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:31:31Z",
+            "owner": "kairos-io",
+            "repo": "kairos",
+            "stars": 1785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arkane Linux",
+          "description": "Arch based immutable distro which uses Arkdep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-02T05:46:11Z",
+            "owner": "arkanelinux",
+            "repo": "arkdep",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChimeraOS",
+          "description": "A Steam Big Picture based couch gaming OS utilizing frzr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-04T12:26:48Z",
+            "owner": "ChimeraOS",
+            "repo": "frzr",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Fedora Atomic",
+          "description": "The official atomic editons of Fedora",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Related Projects",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Universal Blue",
+                  "description": "An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. list of source images, list of end-user images",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Bazzite",
+                      "description": "A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "Just",
+                        "last_commit": "2026-08-13T01:08:56Z",
+                        "owner": "ublue-os",
+                        "repo": "bazzite",
+                        "stars": 8916
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Community & Downstream OCI Projects - These projects are built using Universal Blue infrastructure or base images and utilize BlueBuild to provide specialized versions of the uBlue stack",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SecureBlue",
+                      "description": "A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "Python",
+                        "last_commit": "2026-08-13T01:45:25Z",
+                        "owner": "secureblue",
+                        "repo": "secureblue",
+                        "stars": 1027
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "WayBlue",
+                      "description": "A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "language": "YAML",
+                        "last_commit": "2026-08-07T19:34:00Z",
+                        "owner": "wayblueorg",
+                        "repo": "wayblue",
+                        "stars": 344
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NixOS",
+          "description": "a Linux distribution based on Nix package manager",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-nix",
+              "description": "An awesome curated knowledge-base about Nix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-23T17:30:40Z",
+                "owner": "nix-community",
+                "repo": "awesome-nix",
+                "stars": 5367
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": "There historically have been a few versions of \"toolbox\", and we're probably at a point where it's more of a class of software than an individual project. Jorge Castro classify toolboxes as \"A terminal front end to container runtimes focusing on transparent ease of use of container images\". Someone smarter please make a better definition.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distrobox",
+          "description": "Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T19:27:03Z",
+            "owner": "89luca89",
+            "repo": "distrobox",
+            "stars": 12853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devbox",
+          "description": "Devbox is a command-line tool that lets you easily create isolated shells and containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:17:50Z",
+            "owner": "jetify-com",
+            "repo": "devbox",
+            "stars": 12267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toolbx",
+          "description": "Tool for containerized command line environments on Linux",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Toolbx Images",
+              "description": "Community maintained container images to use with toolbx (Check these out if you need other distros outside the default Fedora ones)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2025-12-17T18:58:24Z",
+                "owner": "toolbx-images",
+                "repo": "images",
+                "stars": 424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toolbx Tuner",
+              "description": "Toolbx Tuner is a tool to improve the experience with toolbx.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-08-29T20:49:15Z",
+                "owner": "13hannes11",
+                "repo": "toolbox-tuner",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toolbox GUI",
+              "description": "A graphical interface for interacting with Toolbox, written with GTK3 and Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-22T14:20:22Z",
+                "owner": "Dvlv",
+                "repo": "toolbox-gui",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toolbox-images",
+              "description": "a collection of container images for usage with the toolbox command. This is an attempt at providing more feature parity with regard to toolboxes for distributions other than Fedora.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2023-03-18T14:38:46Z",
+                "owner": "akdev1l",
+                "repo": "toolbox-images",
+                "stars": 25
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T17:43:34Z",
+            "owner": "containers",
+            "repo": "toolbox",
+            "stars": 3459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apx",
+          "description": "The default package manager for VanillaOS, utilising Distrobox to manage containers for various distros on the user's behalf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T01:20:02Z",
+            "owner": "Vanilla-OS",
+            "repo": "apx",
+            "stars": 586
+          }
+        }
+      ],
+      "title": "Toolboxes"
+    },
+    {
+      "description": "Most of us will not use these tools directly, but useful for developers:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BootC",
+          "description": "Transactional, in-place operating system updates using OCI/Docker container images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:15:25Z",
+            "owner": "bootc-dev",
+            "repo": "bootc",
+            "stars": 2201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libostree (a.k.a. OSTree)",
+          "description": "Operating system and container binary deployment and upgrades",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apt2ostree",
+              "description": "apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-02T13:13:01Z",
+                "owner": "stb-tester",
+                "repo": "apt2ostree",
+                "stars": 124
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T14:40:50Z",
+            "owner": "ostreedev",
+            "repo": "ostree",
+            "stars": 1665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoldBoot",
+          "description": "a command-line utility that builds machine images for both servers and workstations alike.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-05T22:24:41Z",
+            "owner": "fossable",
+            "repo": "goldboot",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABRoot",
+          "description": "A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-01T02:01:18Z",
+            "owner": "Vanilla-OS",
+            "repo": "ABRoot",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bootupd",
+          "description": "Distribution-independent updates for bootloaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T06:02:56Z",
+            "owner": "coreos",
+            "repo": "bootupd",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arkdep",
+          "description": "Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-02T05:46:11Z",
+            "owner": "arkanelinux",
+            "repo": "arkdep",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frzr",
+          "description": "A deployment and automatic update mechanism for operating systems, utilizing pre-built read-only btrfs subvolumes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-04T12:26:48Z",
+            "owner": "ChimeraOS",
+            "repo": "frzr",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Lower Level Tools"
+    },
+    {
+      "description": "OSTree based systems allow for composable derivative distributions. If you're automating the config on systems like this please PR your config to share:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sodalite: A Pantheon Experience for Silverblue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-08-21T18:36:25Z",
+            "owner": "sodaliterocks",
+            "repo": "sodalite",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-silverblue",
+          "description": "Jim Campbell's ansible playbook for silverblue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2023-08-28T13:21:17Z",
+            "owner": "j1mc",
+            "repo": "ansible-silverblue",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ostree-pitti-workstation",
+          "description": "Fedora minimal sway developer desktop",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Just",
+            "last_commit": "2025-04-23T05:07:04Z",
+            "owner": "martinpitt",
+            "repo": "ostree-pitti-workstation",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "silvernobara",
+          "description": "Fedora Silverblue with Project Nobara enhancements",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-17T13:59:59Z",
+            "owner": "beanbag420",
+            "repo": "silvernobara",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JayDoubleau's config (ansiblue)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-10T07:39:39Z",
+            "owner": "JayDoubleu",
+            "repo": "ansiblue",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zepyros-dev's config",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-04-23T04:33:55Z",
+            "owner": "zephyros-dev",
+            "repo": "silverblue-config",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vauxite",
+          "description": "This is an rpm-ostree-based Fedora Xfce desktop.",
+          "children": []
+        }
+      ],
+      "title": "Configs from the Community"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:35.719Z",
+    "original_repository": "Malix-Labs/Awesome-Atomic",
+    "original_repository_sha": "c5f00fdf907248e3955eaafccc9d3b9dab9cb5e8",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
+    "enhanced_repository_description": null,
+    "title": "Awesome Atomic with stars"
+  }
+}
