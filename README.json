@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T18:04:25Z",
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1791
+            "stars": 1792
           }
         },
         {
@@ -68,10 +68,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Just",
-                        "last_commit": "2026-08-15T02:11:27Z",
+                        "last_commit": "2026-08-16T01:15:53Z",
                         "owner": "ublue-os",
                         "repo": "bazzite",
-                        "stars": 8931
+                        "stars": 8937
                       }
                     }
                   ]
@@ -131,7 +131,7 @@
                 "last_commit": "2026-07-23T17:30:40Z",
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5376
+                "stars": 5379
               }
             }
           ]
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-09T19:27:03Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12860
+            "stars": 12863
           }
         },
         {
@@ -164,10 +164,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T14:15:37Z",
+            "last_commit": "2026-08-15T14:08:08Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12272
+            "stars": 12275
           }
         },
         {
@@ -186,7 +186,7 @@
                 "last_commit": "2025-12-17T18:58:24Z",
                 "owner": "toolbx-images",
                 "repo": "images",
-                "stars": 424
+                "stars": 425
               }
             },
             {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3457
+            "stars": 3458
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-21T01:20:02Z",
             "owner": "Vanilla-OS",
             "repo": "apx",
-            "stars": 586
+            "stars": 587
           }
         }
       ],
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-15T00:26:09Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2203
+            "stars": 2206
           }
         },
         {
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:39:37.945Z",
+    "last_updated": "2026-08-16T02:47:28.328Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_sha": "c5f00fdf907248e3955eaafccc9d3b9dab9cb5e8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
