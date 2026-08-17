@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T18:04:25Z",
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1792
+            "stars": 1795
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-02T05:46:11Z",
+            "last_commit": "2026-08-16T22:39:20Z",
             "owner": "arkanelinux",
             "repo": "arkdep",
             "stars": 187
@@ -68,10 +68,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Just",
-                        "last_commit": "2026-08-16T01:15:53Z",
+                        "last_commit": "2026-08-16T15:49:24Z",
                         "owner": "ublue-os",
                         "repo": "bazzite",
-                        "stars": 8937
+                        "stars": 8939
                       }
                     }
                   ]
@@ -89,10 +89,10 @@
                       "repo_info": {
                         "archived": false,
                         "language": "Python",
-                        "last_commit": "2026-08-14T08:05:21Z",
+                        "last_commit": "2026-08-17T00:40:37Z",
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1030
+                        "stars": 1031
                       }
                     },
                     {
@@ -131,7 +131,7 @@
                 "last_commit": "2026-07-23T17:30:40Z",
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5379
+                "stars": 5381
               }
             }
           ]
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-09T19:27:03Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12863
+            "stars": 12864
           }
         },
         {
@@ -164,10 +164,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T14:08:08Z",
+            "last_commit": "2026-08-16T20:10:10Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12275
+            "stars": 12276
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3458
+            "stars": 3462
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-15T00:26:09Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2206
+            "stars": 2210
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-08-06T14:40:50Z",
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1666
+            "stars": 1665
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-07-01T02:01:18Z",
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
-            "stars": 384
+            "stars": 383
           }
         },
         {
@@ -340,7 +340,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:44:12Z",
+            "last_commit": "2026-08-17T01:43:10Z",
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 195
@@ -354,7 +354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-02T05:46:11Z",
+            "last_commit": "2026-08-16T22:39:20Z",
             "owner": "arkanelinux",
             "repo": "arkdep",
             "stars": 187
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:47:28.328Z",
+    "last_updated": "2026-08-17T02:47:49.300Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_sha": "c5f00fdf907248e3955eaafccc9d3b9dab9cb5e8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
