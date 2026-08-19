@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-19T01:39:14Z",
+            "last_commit": "2026-08-19T11:58:32Z",
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1801
+            "stars": 1802
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655100285,
             "language": "Shell",
             "last_commit": "2026-08-16T22:39:20Z",
             "owner": "arkanelinux",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197097965,
             "language": "Shell",
             "last_commit": "2026-05-04T12:26:48Z",
             "owner": "ChimeraOS",
@@ -57,24 +60,18 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Universal Blue",
-                  "description": "An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. list of source images, list of end-user images",
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Bazzite",
-                      "description": "A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "language": "Just",
-                        "last_commit": "2026-08-19T02:40:27Z",
-                        "owner": "ublue-os",
-                        "repo": "bazzite",
-                        "stars": 8950
-                      }
-                    }
-                  ]
+                  "title": "Bazzite",
+                  "description": "A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 599731589,
+                    "language": "Just",
+                    "last_commit": "2026-08-19T05:23:05Z",
+                    "owner": "ublue-os",
+                    "repo": "bazzite",
+                    "stars": 8949
+                  }
                 },
                 {
                   "node_type": "group",
@@ -88,6 +85,7 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 686460804,
                         "language": "Python",
                         "last_commit": "2026-08-18T15:35:56Z",
                         "owner": "secureblue",
@@ -102,11 +100,12 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "id": 736443919,
                         "language": "YAML",
                         "last_commit": "2026-08-17T19:45:04Z",
                         "owner": "wayblueorg",
                         "repo": "wayblue",
-                        "stars": 346
+                        "stars": 347
                       }
                     }
                   ]
@@ -127,11 +126,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 186849419,
                 "language": null,
                 "last_commit": "2026-07-23T17:30:40Z",
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5392
+                "stars": 5393
               }
             }
           ]
@@ -149,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429485913,
             "language": "Go",
             "last_commit": "2026-08-09T19:27:03Z",
             "owner": "89luca89",
@@ -163,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526363266,
             "language": "Go",
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
@@ -182,6 +184,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 532019194,
                 "language": "Dockerfile",
                 "last_commit": "2025-12-17T18:58:24Z",
                 "owner": "toolbx-images",
@@ -196,6 +199,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 472104413,
                 "language": "Rust",
                 "last_commit": "2025-08-29T20:49:15Z",
                 "owner": "13hannes11",
@@ -210,6 +214,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 505076335,
                 "language": "Python",
                 "last_commit": "2022-10-22T14:20:22Z",
                 "owner": "Dvlv",
@@ -224,6 +229,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 520296843,
                 "language": "Dockerfile",
                 "last_commit": "2023-03-18T14:38:46Z",
                 "owner": "akdev1l",
@@ -234,11 +240,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 146918141,
             "language": "Go",
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3465
+            "stars": 3467
           }
         },
         {
@@ -248,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535125663,
             "language": "Go",
             "last_commit": "2026-07-21T01:20:02Z",
             "owner": "Vanilla-OS",
@@ -268,6 +276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572685958,
             "language": "Rust",
             "last_commit": "2026-08-19T01:39:14Z",
             "owner": "bootc-dev",
@@ -287,6 +296,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 160864066,
                 "language": "Python",
                 "last_commit": "2025-06-02T13:13:01Z",
                 "owner": "stb-tester",
@@ -297,6 +307,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 4614541,
             "language": "C",
             "last_commit": "2026-08-18T15:54:35Z",
             "owner": "ostreedev",
@@ -311,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448603390,
             "language": "Rust",
             "last_commit": "2026-07-05T22:24:41Z",
             "owner": "fossable",
@@ -325,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566825585,
             "language": "Go",
             "last_commit": "2026-07-01T02:01:18Z",
             "owner": "Vanilla-OS",
@@ -339,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273734306,
             "language": "Rust",
             "last_commit": "2026-08-17T01:43:10Z",
             "owner": "coreos",
@@ -353,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655100285,
             "language": "Shell",
             "last_commit": "2026-08-16T22:39:20Z",
             "owner": "arkanelinux",
@@ -367,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197097965,
             "language": "Shell",
             "last_commit": "2026-05-04T12:26:48Z",
             "owner": "ChimeraOS",
@@ -387,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 442387413,
             "language": "Shell",
             "last_commit": "2024-08-21T18:36:25Z",
             "owner": "sodaliterocks",
@@ -401,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445971601,
             "language": "Jinja",
             "last_commit": "2023-08-28T13:21:17Z",
             "owner": "j1mc",
@@ -415,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 320897760,
             "language": "Just",
             "last_commit": "2025-04-23T05:07:04Z",
             "owner": "martinpitt",
@@ -429,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 510065110,
             "language": "Python",
             "last_commit": "2023-03-17T13:59:59Z",
             "owner": "beanbag420",
@@ -443,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438407231,
             "language": "Python",
             "last_commit": "2025-06-10T07:39:39Z",
             "owner": "JayDoubleu",
@@ -457,26 +478,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435051615,
             "language": "Dockerfile",
             "last_commit": "2022-04-23T04:33:55Z",
             "owner": "zephyros-dev",
             "repo": "silverblue-config",
             "stars": 6
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vauxite",
-          "description": "This is an rpm-ostree-based Fedora Xfce desktop.",
-          "children": []
         }
       ],
       "title": "Configs from the Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:45:33.500Z",
+    "last_updated": "2026-08-19T12:06:13.269Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
+    "original_repository_id": 427751527,
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
     "enhanced_repository_description": null,
