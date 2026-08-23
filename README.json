@@ -67,10 +67,10 @@
                     "archived": false,
                     "id": 599731589,
                     "language": "Just",
-                    "last_commit": "2026-08-21T20:40:56Z",
+                    "last_commit": "2026-08-22T15:58:07Z",
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 8972
+                    "stars": 8979
                   }
                 },
                 {
@@ -90,7 +90,7 @@
                         "last_commit": "2026-08-22T01:42:15Z",
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1034
+                        "stars": 1035
                       }
                     },
                     {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12888
+            "stars": 12892
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12295
+            "stars": 12296
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3468
+            "stars": 3470
           }
         },
         {
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 572685958,
             "language": "Rust",
-            "last_commit": "2026-08-21T21:27:41Z",
+            "last_commit": "2026-08-23T00:27:45Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2223
+            "stars": 2227
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-19T21:39:59Z",
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:41:52.691Z",
+    "last_updated": "2026-08-23T02:50:53.284Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_id": 427751527,
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
