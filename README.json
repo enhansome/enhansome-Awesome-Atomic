@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T02:29:27Z",
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1806
+            "stars": 1807
           }
         },
         {
@@ -67,10 +67,10 @@
                     "archived": false,
                     "id": 599731589,
                     "language": "Just",
-                    "last_commit": "2026-08-22T15:58:07Z",
+                    "last_commit": "2026-08-23T18:49:42Z",
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 8979
+                    "stars": 8989
                   }
                 },
                 {
@@ -87,7 +87,7 @@
                         "archived": false,
                         "id": 686460804,
                         "language": "Python",
-                        "last_commit": "2026-08-22T01:42:15Z",
+                        "last_commit": "2026-08-24T00:48:21Z",
                         "owner": "secureblue",
                         "repo": "secureblue",
                         "stars": 1035
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12892
+            "stars": 12894
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12296
+            "stars": 12297
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3470
+            "stars": 3473
           }
         },
         {
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 572685958,
             "language": "Rust",
-            "last_commit": "2026-08-23T00:27:45Z",
+            "last_commit": "2026-08-23T23:11:57Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 273734306,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:43:10Z",
+            "last_commit": "2026-08-24T01:43:30Z",
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 194
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:50:53.284Z",
+    "last_updated": "2026-08-24T02:51:45.724Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_id": 427751527,
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
