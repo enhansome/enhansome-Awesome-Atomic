@@ -12,7 +12,7 @@
             "archived": false,
             "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-22T02:29:27Z",
+            "last_commit": "2026-08-24T13:22:21Z",
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1807
@@ -67,10 +67,10 @@
                     "archived": false,
                     "id": 599731589,
                     "language": "Just",
-                    "last_commit": "2026-08-23T18:49:42Z",
+                    "last_commit": "2026-08-24T09:45:34Z",
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 8989
+                    "stars": 8993
                   }
                 },
                 {
@@ -87,7 +87,7 @@
                         "archived": false,
                         "id": 686460804,
                         "language": "Python",
-                        "last_commit": "2026-08-24T00:48:21Z",
+                        "last_commit": "2026-08-24T11:52:13Z",
                         "owner": "secureblue",
                         "repo": "secureblue",
                         "stars": 1035
@@ -131,7 +131,7 @@
                 "last_commit": "2026-07-23T17:30:40Z",
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5406
+                "stars": 5408
               }
             }
           ]
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12894
+            "stars": 12898
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3473
+            "stars": 3474
           }
         },
         {
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 535125663,
             "language": "Go",
-            "last_commit": "2026-08-20T09:00:35Z",
+            "last_commit": "2026-08-24T13:49:54Z",
             "owner": "Vanilla-OS",
             "repo": "apx",
             "stars": 587
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 572685958,
             "language": "Rust",
-            "last_commit": "2026-08-23T23:11:57Z",
+            "last_commit": "2026-08-24T12:47:00Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2228
+            "stars": 2231
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 566825585,
             "language": "Go",
-            "last_commit": "2026-07-01T02:01:18Z",
+            "last_commit": "2026-08-24T13:49:52Z",
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:51:45.724Z",
+    "last_updated": "2026-08-24T14:16:57.821Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_id": 427751527,
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
