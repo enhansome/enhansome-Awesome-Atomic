@@ -12,7 +12,7 @@
             "archived": false,
             "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-24T13:22:21Z",
+            "last_commit": "2026-08-25T05:45:22Z",
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1808
@@ -257,7 +257,7 @@
             "archived": false,
             "id": 535125663,
             "language": "Go",
-            "last_commit": "2026-08-24T13:49:54Z",
+            "last_commit": "2026-08-25T05:55:57Z",
             "owner": "Vanilla-OS",
             "repo": "apx",
             "stars": 587
@@ -281,7 +281,7 @@
             "last_commit": "2026-08-24T17:19:54Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 566825585,
             "language": "Go",
-            "last_commit": "2026-08-24T13:49:52Z",
+            "last_commit": "2026-08-25T05:56:16Z",
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
             "stars": 384
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:45:53.515Z",
+    "last_updated": "2026-08-25T06:06:36.864Z",
     "original_repository": "Malix-Labs/Awesome-Atomic",
     "original_repository_id": 427751527,
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
