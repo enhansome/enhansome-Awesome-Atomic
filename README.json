@@ -12,10 +12,10 @@
             "archived": false,
             "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-25T13:44:46Z",
+            "last_commit": "2026-08-27T11:06:36Z",
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1809
+            "stars": 1810
           }
         },
         {
@@ -67,10 +67,10 @@
                     "archived": false,
                     "id": 599731589,
                     "language": "Just",
-                    "last_commit": "2026-08-26T00:26:24Z",
+                    "last_commit": "2026-08-27T06:59:28Z",
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9003
+                    "stars": 9011
                   }
                 },
                 {
@@ -87,10 +87,10 @@
                         "archived": false,
                         "id": 686460804,
                         "language": "Python",
-                        "last_commit": "2026-08-26T01:14:02Z",
+                        "last_commit": "2026-08-26T23:20:14Z",
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1036
+                        "stars": 1039
                       }
                     },
                     {
@@ -131,7 +131,7 @@
                 "last_commit": "2026-07-23T17:30:40Z",
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5414
+                "stars": 5417
               }
             }
           ]
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12903
+            "stars": 12909
           }
         },
         {
@@ -169,7 +169,7 @@
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12303
+            "stars": 12306
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-08-05T17:43:34Z",
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3476
+            "stars": 3478
           }
         },
         {
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 572685958,
             "language": "Rust",
-            "last_commit": "2026-08-26T00:26:42Z",
+            "last_commit": "2026-08-27T05:34:26Z",
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2237
+            "stars": 2239
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-25T14:18:35Z",
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1668
+            "stars": 1669
           }
         },
         {
@@ -324,7 +324,7 @@
             "archived": false,
             "id": 448603390,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:34:08Z",
+            "last_commit": "2026-08-27T02:45:55Z",
             "owner": "fossable",
             "repo": "goldboot",
             "stars": 640
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 273734306,
             "language": "Rust",
-            "last_commit": "2026-08-24T01:43:30Z",
+            "last_commit": "2026-08-26T03:32:30Z",
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 194
@@ -491,9 +491,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:53:31.996Z",
-    "original_repository": "Malix-Labs/Awesome-Atomic",
-    "original_repository_id": 427751527,
+    "last_updated": "2026-08-27T11:23:42.155Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 427751527,
+      "language": null,
+      "last_commit": "2026-08-17T10:04:52Z",
+      "owner": "Malix-Labs",
+      "repo": "Awesome-Atomic",
+      "stars": 1231
+    },
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
     "enhanced_repository_description": null,
