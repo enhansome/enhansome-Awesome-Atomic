@@ -12,7 +12,7 @@
             "archived": false,
             "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-27T11:06:36Z",
+            "last_commit": "2026-08-27T11:51:45Z",
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1810
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:42.155Z",
+    "last_updated": "2026-08-27T12:15:16.395Z",
     "original_repository_info": {
       "archived": false,
       "id": 427751527,

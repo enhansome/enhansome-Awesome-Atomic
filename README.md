@@ -127,7 +127,7 @@ Most of us will not use these tools directly, but useful for developers:
   * [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
 * [GoldBoot](https://github.com/fossable/goldboot) ⭐ 640 | 🐛 20 | 🌐 Rust | 📅 2026-08-27 - a command-line utility that builds machine images for both servers and workstations alike.
 * [ABRoot](https://github.com/Vanilla-OS/ABRoot) ⭐ 384 | 🐛 26 | 🌐 Go | 📅 2026-08-25 - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
-* [bootupd](https://github.com/coreos/bootupd) ⭐ 194 | 🐛 57 | 🌐 Rust | 📅 2026-08-26 - Distribution-independent updates for bootloaders.
+* [bootupd](https://github.com/coreos/bootupd) ⭐ 194 | 🐛 58 | 🌐 Rust | 📅 2026-08-26 - Distribution-independent updates for bootloaders.
 * [Arkdep](https://github.com/arkanelinux/arkdep) ⭐ 187 | 🐛 16 | 🌐 Shell | 📅 2026-08-16 - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
 * [frzr](https://github.com/ChimeraOS/frzr) ⭐ 69 | 🐛 5 | 🌐 Shell | 📅 2026-05-04 - A deployment and automatic update mechanism for operating systems, utilizing pre-built read-only btrfs subvolumes.
 * [Image Builder - osbuild](https://www.osbuild.org/) - Build Infrastructure for Operating Systems
