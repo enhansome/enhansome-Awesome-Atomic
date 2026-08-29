@@ -10,12 +10,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The immutable Linux meta-distribution for edge Kubernetes.",
+            "homepage": "https://kairos.io",
             "id": 391127422,
             "language": "Go",
-            "last_commit": "2026-08-28T10:50:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:42:02Z",
+            "open_issues": 295,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1811
+            "stars": 1811,
+            "topics": [
+              "baremetal",
+              "cloud",
+              "cloud-native",
+              "containers",
+              "edge",
+              "hacktoberfest",
+              "immutable",
+              "k3s",
+              "kubernetes",
+              "libp2p",
+              "linux-distribution",
+              "p2p",
+              "provisioning",
+              "qrcode",
+              "rpi",
+              "vpn",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -26,12 +49,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for building, deploying and maintaining an immutable, atomic, btrfs-based system",
+            "homepage": null,
             "id": 655100285,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-16T22:39:20Z",
+            "open_issues": 16,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "atomicity",
+              "command-line",
+              "immutability",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -42,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deployment and automatic update mechanism for operating systems",
+            "homepage": null,
             "id": 197097965,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-04T12:26:48Z",
+            "open_issues": 5,
             "owner": "ChimeraOS",
             "repo": "frzr",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -68,12 +106,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
+                    "homepage": "https://bazzite.gg",
                     "id": 599731589,
                     "language": "Just",
-                    "last_commit": "2026-08-28T03:35:21Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T22:00:07Z",
+                    "open_issues": 1365,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9009
+                    "stars": 9009,
+                    "topics": [
+                      "desktop",
+                      "fedora-kinoite",
+                      "fedora-linux",
+                      "fedora-silverblue",
+                      "gaming",
+                      "htpc",
+                      "legiongo",
+                      "oci-image",
+                      "operating-system",
+                      "ostree",
+                      "rog-ally",
+                      "steam",
+                      "steam-deck",
+                      "valve"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:24:01.182Z"
                 },
@@ -89,12 +147,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A security-focused desktop and server linux operating system.",
+                        "homepage": "https://secureblue.dev",
                         "id": 686460804,
                         "language": "Python",
-                        "last_commit": "2026-08-27T23:41:21Z",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-08-28T17:05:09Z",
+                        "open_issues": 166,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1040
+                        "stars": 1040,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
                     },
@@ -105,12 +168,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Fedora Atomic images for wayland compositors",
+                        "homepage": null,
                         "id": 736443919,
                         "language": "YAML",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-24T19:53:46Z",
+                        "open_issues": 18,
                         "owner": "wayblueorg",
                         "repo": "wayblue",
-                        "stars": 351
+                        "stars": 351,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
                     }
@@ -132,12 +200,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
+                "homepage": "https://nix-community.github.io/awesome-nix/",
                 "id": 186849419,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-23T17:30:40Z",
+                "open_issues": 22,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5419
+                "stars": 5425,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "nix",
+                  "nixos"
+                ]
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             }
@@ -156,12 +235,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox",
+            "homepage": "https://distrobox.it/",
             "id": 429485913,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T07:47:07Z",
+            "open_issues": 147,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12910
+            "stars": 12913,
+            "topics": [
+              "almalinux",
+              "alpine",
+              "archlinux",
+              "bash",
+              "centos",
+              "command-line",
+              "containers",
+              "debian",
+              "development",
+              "docker",
+              "fedora",
+              "linux",
+              "opensuse",
+              "podman",
+              "posix",
+              "posix-sh",
+              "rockylinux",
+              "suse",
+              "tools",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -172,12 +277,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant, easy, and predictable development environments",
+            "homepage": "https://www.jetify.com/devbox/",
             "id": 526363266,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:17:04Z",
+            "open_issues": 497,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12313
+            "stars": 12316,
+            "topics": [
+              "build-system",
+              "build-tool",
+              "buildpack",
+              "containers",
+              "dev-environment",
+              "devbox",
+              "development-environment",
+              "nix",
+              "venv",
+              "virtual-environment",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -193,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community maintained container images to use with toolbx and distrobox",
+                "homepage": "https://quay.io/organization/toolbx-images",
                 "id": 532019194,
                 "language": "Dockerfile",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-17T18:58:24Z",
+                "open_issues": 5,
                 "owner": "toolbx-images",
                 "repo": "images",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             },
@@ -209,12 +336,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphical application intended for use on Fedora Silverblue to manage containertoolbx.org containers.",
+                "homepage": null,
                 "id": 472104413,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-29T20:49:15Z",
+                "open_issues": 5,
                 "owner": "13hannes11",
                 "repo": "toolbox-tuner",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "adwaita",
+                  "containers",
+                  "fedora",
+                  "flatpak",
+                  "gtk",
+                  "libadwaita",
+                  "linux",
+                  "podman",
+                  "relm4",
+                  "rust",
+                  "silverblue",
+                  "toolbox",
+                  "toolbx"
+                ]
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             },
@@ -225,12 +371,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GUI for using Toolboxes in Fedora Silverblue/Kinoite",
+                "homepage": null,
                 "id": 505076335,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-22T14:20:22Z",
+                "open_issues": 0,
                 "owner": "Dvlv",
                 "repo": "toolbox-gui",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "fedora",
+                  "gui",
+                  "hacktoberfest",
+                  "toolbox",
+                  "toolbx"
+                ]
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             },
@@ -241,24 +398,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Images for usage in toolbox",
+                "homepage": null,
                 "id": 520296843,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2023-03-18T14:38:46Z",
+                "open_issues": 2,
                 "owner": "akdev1l",
                 "repo": "toolbox-images",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Tool for interactive command line environments on Linux",
+            "homepage": "https://containertoolbx.org/",
             "id": 146918141,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T17:43:34Z",
+            "open_issues": 249,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3479
+            "stars": 3480,
+            "topics": [
+              "containers",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -269,12 +439,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.",
+            "homepage": "https://dev-apx.vanillaos.org",
             "id": 535125663,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T05:55:57Z",
+            "open_issues": 26,
             "owner": "Vanilla-OS",
             "repo": "apx",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "apx",
+              "command-line",
+              "distrobox",
+              "hacktoberfest",
+              "linux",
+              "package-manager",
+              "vanillaos"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         }
@@ -291,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boot and upgrade via container images",
+            "homepage": "https://bootc-dev.github.io/bootc/",
             "id": 572685958,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:12:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:23:44Z",
+            "open_issues": 327,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2243
+            "stars": 2244,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -312,24 +500,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build ostree images based on Debian/Ubuntu",
+                "homepage": null,
                 "id": 160864066,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-02T13:13:01Z",
+                "open_issues": 5,
                 "owner": "stb-tester",
                 "repo": "apt2ostree",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Operating system and container binary deployment and upgrades",
+            "homepage": "https://ostreedev.github.io/ostree/",
             "id": 4614541,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T14:18:35Z",
+            "open_issues": 424,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1671
+            "stars": 1673,
+            "topics": [
+              "ostree",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -340,12 +541,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build golden images with CI",
+            "homepage": "https://www.fossable.org/projects/goldboot",
             "id": 448603390,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T02:45:55Z",
+            "open_issues": 20,
             "owner": "fossable",
             "repo": "goldboot",
-            "stars": 640
+            "stars": 640,
+            "topics": [
+              "ansible",
+              "chef",
+              "devops-tools",
+              "dualboot",
+              "golden-image",
+              "infrastructure",
+              "linux",
+              "macos",
+              "puppet",
+              "steamdeck",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -356,12 +574,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ABRoot is a utility that provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.",
+            "homepage": "http://abroot.vanillaos.org/",
             "id": 566825585,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T05:56:16Z",
+            "open_issues": 26,
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "atomicity",
+              "command-line",
+              "hacktoberfest",
+              "immutability",
+              "linux",
+              "transactions",
+              "vanillaos",
+              "vib"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -372,12 +604,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bootloader updater",
+            "homepage": null,
             "id": 273734306,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T03:32:30Z",
+            "open_issues": 59,
             "owner": "coreos",
             "repo": "bootupd",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "bootloaders",
+              "ostree"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -388,12 +628,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for building, deploying and maintaining an immutable, atomic, btrfs-based system",
+            "homepage": null,
             "id": 655100285,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-16T22:39:20Z",
+            "open_issues": 16,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "atomicity",
+              "command-line",
+              "immutability",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -404,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deployment and automatic update mechanism for operating systems",
+            "homepage": null,
             "id": 197097965,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-04T12:26:48Z",
+            "open_issues": 5,
             "owner": "ChimeraOS",
             "repo": "frzr",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         }
@@ -426,12 +681,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🪨 A Pantheon experience for rpm-ostree",
+            "homepage": "https://sodalite.rocks",
             "id": 442387413,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-08-21T18:36:25Z",
+            "open_issues": 11,
             "owner": "sodaliterocks",
             "repo": "sodalite",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "elementary",
+              "fedora",
+              "fedora-silverblue",
+              "gnome",
+              "os",
+              "ostree",
+              "pantheon",
+              "rpm-ostree",
+              "silverblue"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -442,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configure a Fedora Silverblue host using Ansible",
+            "homepage": null,
             "id": 445971601,
             "language": "Jinja",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-08-28T13:21:17Z",
+            "open_issues": 4,
             "owner": "j1mc",
             "repo": "ansible-silverblue",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -458,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Obsolete, superseded by https://github.com/martinpitt/workstation-bootc",
+            "homepage": null,
             "id": 320897760,
             "language": "Just",
+            "license": "MIT",
             "last_commit": "2025-04-23T05:07:04Z",
+            "open_issues": 1,
             "owner": "martinpitt",
             "repo": "ostree-pitti-workstation",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -474,12 +754,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fedora Silverblue with Project Nobara enhancements",
+            "homepage": null,
             "id": 510065110,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-17T13:59:59Z",
+            "open_issues": 2,
             "owner": "beanbag420",
             "repo": "silvernobara",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "fedora",
+              "gaming",
+              "linux",
+              "nobara",
+              "ostree",
+              "silverblue"
+            ]
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -490,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental Ansible playbook for provisioning Fedora Silverblue systems with automated flatpak, toolbox, and host configuration management.",
+            "homepage": null,
             "id": 438407231,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-10T07:39:39Z",
+            "open_issues": 1,
             "owner": "JayDoubleu",
             "repo": "ansiblue",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         },
@@ -506,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Fedora silverblue configuration",
+            "homepage": null,
             "id": 435051615,
             "language": "Dockerfile",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-23T04:33:55Z",
+            "open_issues": 0,
             "owner": "zephyros-dev",
             "repo": "silverblue-config",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
         }
@@ -520,15 +822,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:01.182Z",
+    "last_updated": "2026-08-29T04:31:41.323Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome curated knowledge-base about atomic systems",
+      "homepage": "https://malix-labs.github.io/Awesome-Atomic/",
       "id": 427751527,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-17T10:04:52Z",
+      "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1232
+      "stars": 1232,
+      "topics": [
+        "abroot",
+        "atomic",
+        "awesome",
+        "awesome-list",
+        "btrfs",
+        "btrfs-snapshots",
+        "btrfs-subvolume",
+        "btrfs-tools",
+        "declarative",
+        "distribution",
+        "distro",
+        "distrobox",
+        "flatpak",
+        "immutable",
+        "linux",
+        "linux-custom-image",
+        "linux-desktop",
+        "linux-distribution",
+        "nix",
+        "ostree"
+      ]
     },
     "original_repository_sha": "3e2b04edf049954ddb65dd6dc186b32cddf318d1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Atomic",
