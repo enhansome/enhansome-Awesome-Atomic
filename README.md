@@ -50,12 +50,12 @@ The Future is Now™, try one of these today!
     * [Fedora CoreOS](https://fedoraproject.org/coreos/) - An atomic-based Fedora focused on servers
   * Related Projects
     * [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
-      * [Bazzite](https://github.com/ublue-os/bazzite/) ⭐ 9,009 | 🐛 1,365 | 🌐 Just | 📅 2026-08-28 - A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming
+      * [Bazzite](https://github.com/ublue-os/bazzite/) ⭐ 9,010 | 🐛 1,366 | 🌐 Just | 📅 2026-08-29 - A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming
       * [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
       * [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue)
       * [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
     * Community & Downstream OCI Projects - These projects are built using Universal Blue infrastructure or base images and utilize BlueBuild to provide specialized versions of the uBlue stack
-      * [SecureBlue](https://github.com/secureblue/secureblue) ⭐ 1,040 | 🐛 166 | 🌐 Python | 📅 2026-08-28 - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
+      * [SecureBlue](https://github.com/secureblue/secureblue) ⭐ 1,041 | 🐛 166 | 🌐 Python | 📅 2026-08-28 - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
       * [WayBlue](https://github.com/wayblueorg/wayblue) ⭐ 351 | 🐛 18 | 🌐 YAML | 📅 2026-08-24 - A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework
       * [RakuOS Linux](https://rakuos.org/) - A performance, gaming, and cutting-edge oriented Hybrid Atomic RPM-based bootable image featuring the KDE, GNOME, COSMIC, and Niri desktop environments, using the [P03 kernel](https://rakuos.org/kernel) by default, the [`Rum` package manager](https://rakuos.org/blog/introducing-rum), and replacing legacy shell utilities with modern alternatives (i.e. `eza`, `bat`, `sudo-rs`, …)
   * Useful Documentation
@@ -98,7 +98,7 @@ Someone smarter please make a better definition.
 
 * [Distrobox](https://github.com/89luca89/distrobox) ⭐ 12,913 | 🐛 147 | 🌐 Go | 📅 2026-08-21 - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
   * [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
-* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,316 | 🐛 497 | 🌐 Go | 📅 2026-08-18 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
+* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,317 | 🐛 497 | 🌐 Go | 📅 2026-08-18 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
 * [Toolbx](https://github.com/containers/toolbox) ⭐ 3,480 | 🐛 249 | 🌐 Go | 📅 2026-08-05 - Tool for containerized command line environments on Linux
   * [Toolbx Images](https://github.com/toolbx-images/images) ⭐ 425 | 🐛 5 | 🌐 Dockerfile | 📅 2025-12-17 - Community maintained container images to use with toolbx (Check these out if you need other distros outside the default Fedora ones)
   * [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) ⭐ 74 | 🐛 5 | 🌐 Rust | 📅 2025-08-29 - Toolbx Tuner is a tool to improve the experience with toolbx.
@@ -112,7 +112,7 @@ Things that are the building blocks for all the stuff we're talking about here.
 
 * [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
   * [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) ⭐ 55 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-12 - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
-  * [Podman Desktop](https://github.com/containers/podman-desktop) ⭐ 7,971 | 🐛 877 | 🌐 TypeScript | 📅 2026-08-28 - Manage different container engines from a single UI and tray icon
+  * [Podman Desktop](https://github.com/containers/podman-desktop) ⭐ 7,972 | 🐛 877 | 🌐 TypeScript | 📅 2026-08-28 - Manage different container engines from a single UI and tray icon
   * [Pods](https://github.com/marhkb/pods) ⭐ 1,081 | 🐛 39 | 🌐 Rust | 📅 2026-07-23 - a podman desktop application (formely known as Symfony)
 * [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 

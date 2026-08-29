@@ -111,11 +111,11 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T22:00:07Z",
-                    "open_issues": 1365,
+                    "last_commit": "2026-08-29T07:05:10Z",
+                    "open_issues": 1366,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9009,
+                    "stars": 9010,
                     "topics": [
                       "desktop",
                       "fedora-kinoite",
@@ -156,7 +156,7 @@
                         "open_issues": 166,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1040,
+                        "stars": 1041,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -286,7 +286,7 @@
             "open_issues": 497,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12316,
+            "stars": 12317,
             "topics": [
               "build-system",
               "build-tool",
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:41.323Z",
+    "last_updated": "2026-08-29T08:18:58.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
