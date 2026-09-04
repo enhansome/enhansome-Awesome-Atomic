@@ -15,11 +15,11 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T06:20:02Z",
-            "open_issues": 296,
+            "last_commit": "2026-09-04T06:15:19Z",
+            "open_issues": 301,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1812,
+            "stars": 1813,
             "topics": [
               "baremetal",
               "cloud",
@@ -111,8 +111,8 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T05:46:30Z",
-                    "open_issues": 1391,
+                    "last_commit": "2026-09-04T01:25:09Z",
+                    "open_issues": 1389,
                     "owner": "ublue-os",
                     "repo": "bazzite",
                     "stars": 9029,
@@ -152,11 +152,11 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-03T03:05:29Z",
-                        "open_issues": 158,
+                        "last_commit": "2026-09-03T18:25:10Z",
+                        "open_issues": 159,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1046,
+                        "stars": 1047,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -174,7 +174,7 @@
                         "language": "YAML",
                         "license": "Apache-2.0",
                         "last_commit": "2026-09-02T19:33:21Z",
-                        "open_issues": 18,
+                        "open_issues": 20,
                         "owner": "wayblueorg",
                         "repo": "wayblue",
                         "stars": 352,
@@ -244,7 +244,7 @@
             "open_issues": 148,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12935,
+            "stars": 12936,
             "topics": [
               "almalinux",
               "alpine",
@@ -282,11 +282,11 @@
             "id": 526363266,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-18T14:17:04Z",
+            "last_commit": "2026-09-04T00:07:25Z",
             "open_issues": 496,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12326,
+            "stars": 12329,
             "topics": [
               "build-system",
               "build-tool",
@@ -424,7 +424,7 @@
             "open_issues": 249,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3486,
+            "stars": 3487,
             "topics": [
               "containers",
               "linux"
@@ -479,11 +479,11 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T23:19:27Z",
-            "open_issues": 326,
+            "last_commit": "2026-09-03T13:19:21Z",
+            "open_issues": 325,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2259,
+            "stars": 2261,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -526,7 +526,7 @@
             "open_issues": 426,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "ostree",
               "package-manager"
@@ -609,8 +609,8 @@
             "id": 273734306,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T10:30:32Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-03T16:36:30Z",
+            "open_issues": 56,
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 194,
@@ -822,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:31:04.863Z",
+    "last_updated": "2026-09-04T06:33:22.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
@@ -834,7 +834,7 @@
       "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1236,
+      "stars": 1237,
       "topics": [
         "abroot",
         "atomic",
