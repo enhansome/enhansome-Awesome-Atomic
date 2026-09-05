@@ -37,7 +37,7 @@ These should be enough to get you started:
 
 The Future is Now™, try one of these today!
 
-* [Kairos](https://github.com/kairos-io/kairos) ⭐ 1,813 | 🐛 301 | 🌐 Go | 📅 2026-09-04 - The immutable Linux meta-distribution for edge Kubernetes.
+* [Kairos](https://github.com/kairos-io/kairos) ⭐ 1,813 | 🐛 295 | 🌐 Go | 📅 2026-09-05 - The immutable Linux meta-distribution for edge Kubernetes.
 * [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep) ⭐ 187 | 🐛 16 | 🌐 Shell | 📅 2026-08-16
 * [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS utilizing [frzr](https://github.com/ChimeraOS/frzr) ⭐ 69 | 🐛 5 | 🌐 Shell | 📅 2026-05-04
 * [Fedora Atomic](https://fedoraproject.org/atomic-desktops/) - The official atomic editons of Fedora
@@ -50,13 +50,13 @@ The Future is Now™, try one of these today!
     * [Fedora CoreOS](https://fedoraproject.org/coreos/) - An atomic-based Fedora focused on servers
   * Related Projects
     * [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
-      * [Bazzite](https://github.com/ublue-os/bazzite/) ⭐ 9,029 | 🐛 1,389 | 🌐 Just | 📅 2026-09-04 - A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming
+      * [Bazzite](https://github.com/ublue-os/bazzite/) ⭐ 9,032 | 🐛 1,395 | 🌐 Just | 📅 2026-09-05 - A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming
       * [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
       * [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue)
       * [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
     * Community & Downstream OCI Projects - These projects are built using Universal Blue infrastructure or base images and utilize BlueBuild to provide specialized versions of the uBlue stack
-      * [SecureBlue](https://github.com/secureblue/secureblue) ⭐ 1,047 | 🐛 159 | 🌐 Python | 📅 2026-09-03 - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
-      * [WayBlue](https://github.com/wayblueorg/wayblue) ⭐ 352 | 🐛 20 | 🌐 YAML | 📅 2026-09-02 - A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework
+      * [SecureBlue](https://github.com/secureblue/secureblue) ⭐ 1,051 | 🐛 166 | 🌐 Python | 📅 2026-09-03 - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
+      * [WayBlue](https://github.com/wayblueorg/wayblue) ⭐ 352 | 🐛 19 | 🌐 YAML | 📅 2026-09-05 - A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework
       * [RakuOS Linux](https://rakuos.org/) - A performance, gaming, and cutting-edge oriented Hybrid Atomic RPM-based bootable image featuring the KDE, GNOME, COSMIC, and Niri desktop environments, using the [P03 kernel](https://rakuos.org/kernel) by default, the [`Rum` package manager](https://rakuos.org/blog/introducing-rum), and replacing legacy shell utilities with modern alternatives (i.e. `eza`, `bat`, `sudo-rs`, …)
   * Useful Documentation
     * [Ostree Native Container](https://fedoraproject.org/wiki/Changes/OstreeNativeContainerStable) - Spec on Silverblue moving to a native OCI container model (Huge change)
@@ -69,7 +69,7 @@ The Future is Now™, try one of these today!
   * [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 * [SteamOS](https://store.steampowered.com/steamos) - The official Arch-based atomic linux distribution by Valve
 * [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
-  * [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,433 | 🐛 22 | 📅 2026-07-23 - An awesome curated knowledge-base about Nix
+  * [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,437 | 🐛 22 | 📅 2026-07-23 - An awesome curated knowledge-base about Nix
 * [SnowflakeOS](https://snowflakeos.org/) - A [NixOS](https://nixos.org/) based Linux distribution focused on beginner friendliness and ease of use.
 * [Guix System](https://guix.gnu.org/) - a Linux distribution based on the Guix package manager
 * [RDE](http://trop.in/rde/) - Developer and power user friendly GNU/Linux distribution based on GNU Guix functional package manager
@@ -96,9 +96,9 @@ There historically have been a few versions of "toolbox", and we're probably at 
 Jorge Castro classify toolboxes as "A terminal front end to container runtimes focusing on transparent ease of use of container images".
 Someone smarter please make a better definition.
 
-* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 12,936 | 🐛 148 | 🌐 Go | 📅 2026-09-02 - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
+* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 12,946 | 🐛 148 | 🌐 Go | 📅 2026-09-02 - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
   * [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
-* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,329 | 🐛 496 | 🌐 Go | 📅 2026-09-04 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
+* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,332 | 🐛 496 | 🌐 Go | 📅 2026-09-04 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
 * [Toolbx](https://github.com/containers/toolbox) ⭐ 3,487 | 🐛 249 | 🌐 Go | 📅 2026-08-05 - Tool for containerized command line environments on Linux
   * [Toolbx Images](https://github.com/toolbx-images/images) ⭐ 426 | 🐛 6 | 🌐 Dockerfile | 📅 2025-12-17 - Community maintained container images to use with toolbx (Check these out if you need other distros outside the default Fedora ones)
   * [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) ⭐ 74 | 🐛 5 | 🌐 Rust | 📅 2025-08-29 - Toolbx Tuner is a tool to improve the experience with toolbx.
@@ -112,22 +112,22 @@ Things that are the building blocks for all the stuff we're talking about here.
 
 * [podman](https://podman.io/) - Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
   * [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) ⭐ 55 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-12 - This neat extension lets you see what containers you have, start/stop/restart, pause, and shell into them right from the notification area.
-  * [Podman Desktop](https://github.com/containers/podman-desktop) ⭐ 7,983 | 🐛 871 | 🌐 TypeScript | 📅 2026-09-04 - Manage different container engines from a single UI and tray icon
-  * [Pods](https://github.com/marhkb/pods) ⭐ 1,086 | 🐛 39 | 🌐 Rust | 📅 2026-07-23 - a podman desktop application (formely known as Symfony)
+  * [Podman Desktop](https://github.com/containers/podman-desktop) ⭐ 7,986 | 🐛 864 | 🌐 TypeScript | 📅 2026-09-04 - Manage different container engines from a single UI and tray icon
+  * [Pods](https://github.com/marhkb/pods) ⭐ 1,087 | 🐛 39 | 🌐 Rust | 📅 2026-07-23 - a podman desktop application (formely known as Symfony)
 * [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 
 ## Lower Level Tools
 
 Most of us will not use these tools directly, but useful for developers:
 
-* [BootC](https://github.com/containers/bootc) ⭐ 2,261 | 🐛 325 | 🌐 Rust | 📅 2026-09-03 - Transactional, in-place operating system updates using OCI/Docker container images.
+* [BootC](https://github.com/containers/bootc) ⭐ 2,261 | 🐛 331 | 🌐 Rust | 📅 2026-09-03 - Transactional, in-place operating system updates using OCI/Docker container images.
 * [libostree (a.k.a. OSTree)](https://github.com/ostreedev/ostree) ⭐ 1,677 | 🐛 426 | 🌐 C | 📅 2026-09-02 - Operating system and container binary deployment and upgrades
   * [apt2ostree](https://github.com/stb-tester/apt2ostree) ⭐ 124 | 🐛 5 | 🌐 Python | 📅 2025-06-02 - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
   * [Upcoming experimental features in rpm-ostree](https://coreos.github.io/rpm-ostree/experimental/)
   * [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
 * [GoldBoot](https://github.com/fossable/goldboot) ⭐ 640 | 🐛 20 | 🌐 Rust | 📅 2026-09-01 - a command-line utility that builds machine images for both servers and workstations alike.
 * [ABRoot](https://github.com/Vanilla-OS/ABRoot) ⭐ 389 | 🐛 26 | 🌐 Go | 📅 2026-08-25 - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
-* [bootupd](https://github.com/coreos/bootupd) ⭐ 194 | 🐛 56 | 🌐 Rust | 📅 2026-09-03 - Distribution-independent updates for bootloaders.
+* [bootupd](https://github.com/coreos/bootupd) ⭐ 194 | 🐛 58 | 🌐 Rust | 📅 2026-09-04 - Distribution-independent updates for bootloaders.
 * [Arkdep](https://github.com/arkanelinux/arkdep) ⭐ 187 | 🐛 16 | 🌐 Shell | 📅 2026-08-16 - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
 * [frzr](https://github.com/ChimeraOS/frzr) ⭐ 69 | 🐛 5 | 🌐 Shell | 📅 2026-05-04 - A deployment and automatic update mechanism for operating systems, utilizing pre-built read-only btrfs subvolumes.
 * [Image Builder - osbuild](https://www.osbuild.org/) - Build Infrastructure for Operating Systems
@@ -139,7 +139,7 @@ aka. duct tape.
 
 * [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html)
 * [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue.
-* [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) ⭐ 325 | 🐛 15 | 🌐 Shell | 📅 2025-01-17 - Toolbox Visual Studio Code integration
+* [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) ⭐ 326 | 🐛 15 | 🌐 Shell | 📅 2025-01-17 - Toolbox Visual Studio Code integration
 
 ## Configs from the Community
 
@@ -158,4 +158,4 @@ If you're automating the config on systems like this please PR your config to sh
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
