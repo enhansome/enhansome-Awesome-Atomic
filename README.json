@@ -15,11 +15,11 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T06:37:24Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-23T06:45:07Z",
+            "open_issues": 434,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1826,
+            "stars": 1827,
             "topics": [
               "baremetal",
               "cloud",
@@ -58,7 +58,7 @@
             "open_issues": 16,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "atomic",
               "command-line",
@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T06:30:46Z",
-                    "open_issues": 1422,
+                    "last_commit": "2026-09-23T05:48:26Z",
+                    "open_issues": 1420,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9108,
+                    "stars": 9109,
                     "topics": [
                       "desktop",
                       "fedora-kinoite",
@@ -153,8 +153,8 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-22T03:36:43Z",
-                        "open_issues": 171,
+                        "last_commit": "2026-09-22T21:13:24Z",
+                        "open_issues": 170,
                         "owner": "secureblue",
                         "repo": "secureblue",
                         "stars": 1068,
@@ -207,10 +207,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-23T17:30:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5449,
+                "stars": 5452,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -245,7 +245,7 @@
             "open_issues": 154,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12994,
+            "stars": 12997,
             "topics": [
               "almalinux",
               "alpine",
@@ -425,7 +425,7 @@
             "open_issues": 250,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3505,
+            "stars": 3506,
             "topics": [
               "containers",
               "linux"
@@ -480,8 +480,8 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T02:56:36Z",
-            "open_issues": 339,
+            "last_commit": "2026-09-23T02:21:08Z",
+            "open_issues": 336,
             "owner": "bootc-dev",
             "repo": "bootc",
             "stars": 2286,
@@ -527,7 +527,7 @@
             "open_issues": 425,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1686,
+            "stars": 1688,
             "topics": [
               "ostree",
               "package-manager"
@@ -611,7 +611,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T18:03:05Z",
-            "open_issues": 55,
+            "open_issues": 54,
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 196,
@@ -638,7 +638,7 @@
             "open_issues": 16,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "atomic",
               "command-line",
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:50:49.634Z",
+    "last_updated": "2026-09-23T06:45:47.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
@@ -836,7 +836,7 @@
       "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1246,
+      "stars": 1245,
       "topics": [
         "abroot",
         "atomic",
