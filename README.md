@@ -37,7 +37,7 @@ These should be enough to get you started:
 
 The Future is Now™, try one of these today!
 
-* [Kairos](https://github.com/kairos-io/kairos) ⭐ 1,835 | 🐛 469 | 🌐 Go | 📅 2026-10-02 - The immutable Linux meta-distribution for edge Kubernetes.
+* [Kairos](https://github.com/kairos-io/kairos) ⭐ 1,835 | 🐛 472 | 🌐 Go | 📅 2026-10-02 - The immutable Linux meta-distribution for edge Kubernetes.
 * [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep) ⭐ 187 | 🐛 16 | 🌐 Shell | 📅 2026-10-01
 * [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS utilizing [frzr](https://github.com/ChimeraOS/frzr) ⭐ 70 | 🐛 5 | 🌐 Shell | 📅 2026-05-04
 * [Fedora Atomic](https://fedoraproject.org/atomic-desktops/) - The official atomic editons of Fedora
@@ -98,7 +98,7 @@ Someone smarter please make a better definition.
 
 * [Distrobox](https://github.com/89luca89/distrobox) ⭐ 13,032 | 🐛 158 | 🌐 Go | 📅 2026-10-02 - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
   * [BoxBuddy](https://flathub.org/apps/io.github.dvlv.boxbuddyrs) - A GUI manager for your Distroboxes, made with GTK4 and Libadwaita.
-* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,385 | 🐛 402 | 🌐 Go | 📅 2026-09-28 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
+* [devbox](https://github.com/jetpack-io/devbox) ⭐ 12,386 | 🐛 402 | 🌐 Go | 📅 2026-09-28 - Devbox is a command-line tool that lets you easily create isolated shells and containers.
 * [Toolbx](https://github.com/containers/toolbox) ⭐ 3,516 | 🐛 252 | 🌐 Go | 📅 2026-09-08 - Tool for containerized command line environments on Linux
   * [Toolbx Images](https://github.com/toolbx-images/images) ⭐ 425 | 🐛 6 | 🌐 Dockerfile | 📅 2026-09-21 - Community maintained container images to use with toolbx (Check these out if you need other distros outside the default Fedora ones)
   * [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) ⭐ 74 | 🐛 5 | 🌐 Rust | 📅 2025-08-29 - Toolbx Tuner is a tool to improve the experience with toolbx.
@@ -120,14 +120,14 @@ Things that are the building blocks for all the stuff we're talking about here.
 
 Most of us will not use these tools directly, but useful for developers:
 
-* [BootC](https://github.com/containers/bootc) ⭐ 2,298 | 🐛 341 | 🌐 Rust | 📅 2026-10-02 - Transactional, in-place operating system updates using OCI/Docker container images.
+* [BootC](https://github.com/containers/bootc) ⭐ 2,298 | 🐛 343 | 🌐 Rust | 📅 2026-10-02 - Transactional, in-place operating system updates using OCI/Docker container images.
 * [libostree (a.k.a. OSTree)](https://github.com/ostreedev/ostree) ⭐ 1,689 | 🐛 426 | 🌐 C | 📅 2026-09-30 - Operating system and container binary deployment and upgrades
   * [apt2ostree](https://github.com/stb-tester/apt2ostree) ⭐ 124 | 🐛 5 | 🌐 Python | 📅 2025-06-02 - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
   * [Upcoming experimental features in rpm-ostree](https://coreos.github.io/rpm-ostree/experimental/)
   * [flatpak-ostree-dedup-stats.py](https://gist.github.com/powpingdone/001a46aa7db190b9c935f71c6091eb71) - script to show you how well the ostree deduplication is working, this one is neat
 * [GoldBoot](https://github.com/fossable/goldboot) ⭐ 640 | 🐛 20 | 🌐 Rust | 📅 2026-09-07 - a command-line utility that builds machine images for both servers and workstations alike.
 * [ABRoot](https://github.com/Vanilla-OS/ABRoot) ⭐ 391 | 🐛 26 | 🌐 Go | 📅 2026-09-16 - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
-* [bootupd](https://github.com/coreos/bootupd) ⭐ 197 | 🐛 55 | 🌐 Rust | 📅 2026-10-01 - Distribution-independent updates for bootloaders.
+* [bootupd](https://github.com/coreos/bootupd) ⭐ 197 | 🐛 56 | 🌐 Rust | 📅 2026-10-01 - Distribution-independent updates for bootloaders.
 * [Arkdep](https://github.com/arkanelinux/arkdep) ⭐ 187 | 🐛 16 | 🌐 Shell | 📅 2026-10-01 - Toolkit for building, deploying and maintaining immutable, atomic, btrfs-based systems
 * [frzr](https://github.com/ChimeraOS/frzr) ⭐ 70 | 🐛 5 | 🌐 Shell | 📅 2026-05-04 - A deployment and automatic update mechanism for operating systems, utilizing pre-built read-only btrfs subvolumes.
 * [Image Builder - osbuild](https://www.osbuild.org/) - Build Infrastructure for Operating Systems

@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T13:54:36Z",
-            "open_issues": 469,
+            "open_issues": 472,
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1835,
@@ -287,7 +287,7 @@
             "open_issues": 402,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12385,
+            "stars": 12386,
             "topics": [
               "build-system",
               "build-tool",
@@ -481,7 +481,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T22:47:23Z",
-            "open_issues": 341,
+            "open_issues": 343,
             "owner": "bootc-dev",
             "repo": "bootc",
             "stars": 2298,
@@ -611,7 +611,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T10:11:04Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 197,
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:13.646Z",
+    "last_updated": "2026-10-03T07:07:46.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
