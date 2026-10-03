@@ -15,8 +15,8 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T07:01:47Z",
-            "open_issues": 466,
+            "last_commit": "2026-10-02T13:54:36Z",
+            "open_issues": 469,
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1835,
@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T00:25:35Z",
-                    "open_issues": 1435,
+                    "last_commit": "2026-10-02T22:50:47Z",
+                    "open_issues": 1438,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9132,
+                    "stars": 9134,
                     "topics": [
                       "desktop",
                       "fedora-kinoite",
@@ -178,7 +178,7 @@
                         "open_issues": 19,
                         "owner": "wayblueorg",
                         "repo": "wayblue",
-                        "stars": 354,
+                        "stars": 355,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -207,10 +207,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-23T17:30:40Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5474,
+                "stars": 5475,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -241,11 +241,11 @@
             "id": 429485913,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T20:46:09Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-02T15:19:57Z",
+            "open_issues": 158,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13027,
+            "stars": 13032,
             "topics": [
               "almalinux",
               "alpine",
@@ -284,10 +284,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T22:41:48Z",
-            "open_issues": 404,
+            "open_issues": 402,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12384,
+            "stars": 12385,
             "topics": [
               "build-system",
               "build-tool",
@@ -425,7 +425,7 @@
             "open_issues": 252,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3517,
+            "stars": 3516,
             "topics": [
               "containers",
               "linux"
@@ -449,7 +449,7 @@
             "open_issues": 30,
             "owner": "Vanilla-OS",
             "repo": "apx",
-            "stars": 589,
+            "stars": 588,
             "topics": [
               "apx",
               "command-line",
@@ -480,8 +480,8 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T00:10:58Z",
-            "open_issues": 342,
+            "last_commit": "2026-10-02T22:47:23Z",
+            "open_issues": 341,
             "owner": "bootc-dev",
             "repo": "bootc",
             "stars": 2298,
@@ -524,7 +524,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T14:09:50Z",
-            "open_issues": 425,
+            "open_issues": 426,
             "owner": "ostreedev",
             "repo": "ostree",
             "stars": 1689,
@@ -611,7 +611,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T10:11:04Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 197,
@@ -679,7 +679,7 @@
         {
           "node_type": "item",
           "title": "Sodalite: A Pantheon Experience for Silverblue",
-          "description": null,
+          "description": "sodaliterocks/sodalite",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -780,7 +780,7 @@
         {
           "node_type": "item",
           "title": "JayDoubleau's config (ansiblue)",
-          "description": null,
+          "description": "JayDoubleu/ansiblue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -801,7 +801,7 @@
         {
           "node_type": "item",
           "title": "zepyros-dev's config",
-          "description": null,
+          "description": "zephyros-dev/silverblue-config",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:33:25.416Z",
+    "last_updated": "2026-10-03T04:24:13.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
@@ -836,7 +836,7 @@
       "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1246,
+      "stars": 1247,
       "topics": [
         "abroot",
         "atomic",
