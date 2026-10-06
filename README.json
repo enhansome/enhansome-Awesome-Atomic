@@ -15,8 +15,8 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T13:42:54Z",
-            "open_issues": 563,
+            "last_commit": "2026-10-06T10:20:57Z",
+            "open_issues": 567,
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1839,
@@ -157,7 +157,7 @@
                         "open_issues": 165,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1079,
+                        "stars": 1080,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -245,7 +245,7 @@
             "open_issues": 158,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13036,
+            "stars": 13037,
             "topics": [
               "almalinux",
               "alpine",
@@ -287,7 +287,7 @@
             "open_issues": 403,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12395,
+            "stars": 12396,
             "topics": [
               "build-system",
               "build-tool",
@@ -824,7 +824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:10:26.056Z",
+    "last_updated": "2026-10-06T10:26:04.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
