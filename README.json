@@ -15,11 +15,11 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T07:36:37Z",
-            "open_issues": 591,
+            "last_commit": "2026-10-16T07:57:47Z",
+            "open_issues": 589,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1853,
+            "stars": 1854,
             "topics": [
               "baremetal",
               "cloud",
@@ -85,7 +85,7 @@
             "open_issues": 5,
             "owner": "ChimeraOS",
             "repo": "frzr",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T05:12:25Z",
-                    "open_issues": 1206,
+                    "last_commit": "2026-10-17T05:50:18Z",
+                    "open_issues": 1212,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9184,
+                    "stars": 9188,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -157,10 +157,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-16T05:15:48Z",
-                        "open_issues": 169,
+                        "open_issues": 170,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1089,
+                        "stars": 1092,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -213,7 +213,7 @@
                 "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5499,
+                "stars": 5500,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -248,7 +248,7 @@
             "open_issues": 148,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13070,
+            "stars": 13073,
             "topics": [
               "almalinux",
               "alpine",
@@ -290,7 +290,7 @@
             "open_issues": 404,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12405,
+            "stars": 12410,
             "topics": [
               "build-system",
               "build-tool",
@@ -425,10 +425,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T22:08:17Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3522,
+            "stars": 3523,
             "topics": [
               "containers",
               "linux"
@@ -483,7 +483,7 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T18:34:51Z",
+            "last_commit": "2026-10-16T22:38:21Z",
             "open_issues": 355,
             "owner": "bootc-dev",
             "repo": "bootc",
@@ -526,11 +526,11 @@
             "id": 4614541,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T19:44:15Z",
+            "last_commit": "2026-10-16T17:25:11Z",
             "open_issues": 421,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1690,
+            "stars": 1691,
             "topics": [
               "ostree",
               "package-manager"
@@ -613,8 +613,8 @@
             "id": 273734306,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T04:42:54Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-16T13:15:21Z",
+            "open_issues": 57,
             "owner": "coreos",
             "repo": "bootupd",
             "stars": 197,
@@ -668,7 +668,7 @@
             "open_issues": 5,
             "owner": "ChimeraOS",
             "repo": "frzr",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -695,7 +695,7 @@
             "open_issues": 11,
             "owner": "sodaliterocks",
             "repo": "sodalite",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "elementary",
               "fedora",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:26:57.292Z",
+    "last_updated": "2026-10-17T06:15:50.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
