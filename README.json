@@ -15,8 +15,8 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T03:28:32Z",
-            "open_issues": 494,
+            "last_commit": "2026-10-24T18:43:33Z",
+            "open_issues": 499,
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1856,
@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Just",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T20:15:32Z",
+                    "last_commit": "2026-10-25T01:49:53Z",
                     "open_issues": 1196,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9208,
+                    "stars": 9213,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -157,10 +157,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-24T01:51:55Z",
-                        "open_issues": 168,
+                        "open_issues": 164,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1095,
+                        "stars": 1093,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -213,7 +213,7 @@
                 "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5515,
+                "stars": 5520,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -245,10 +245,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-15T15:20:08Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13088,
+            "stars": 13091,
             "topics": [
               "almalinux",
               "alpine",
@@ -286,11 +286,11 @@
             "id": 526363266,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T23:49:58Z",
-            "open_issues": 420,
+            "last_commit": "2026-10-25T00:31:17Z",
+            "open_issues": 409,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12422,
+            "stars": 12425,
             "topics": [
               "build-system",
               "build-tool",
@@ -328,7 +328,7 @@
                 "open_issues": 6,
                 "owner": "toolbx-images",
                 "repo": "images",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:01.182Z"
@@ -428,7 +428,7 @@
             "open_issues": 254,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3527,
+            "stars": 3526,
             "topics": [
               "containers",
               "linux"
@@ -483,8 +483,8 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T20:05:07Z",
-            "open_issues": 362,
+            "last_commit": "2026-10-25T00:58:05Z",
+            "open_issues": 364,
             "owner": "bootc-dev",
             "repo": "bootc",
             "stars": 2323,
@@ -509,8 +509,8 @@
                 "id": 160864066,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-06-02T13:13:01Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-24T20:23:43Z",
+                "open_issues": 6,
                 "owner": "stb-tester",
                 "repo": "apt2ostree",
                 "stars": 125,
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T06:31:41.338Z",
+    "last_updated": "2026-10-25T06:57:57.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
