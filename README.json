@@ -15,8 +15,8 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T05:22:57Z",
-            "open_issues": 674,
+            "last_commit": "2026-11-03T08:32:56Z",
+            "open_issues": 652,
             "owner": "kairos-io",
             "repo": "kairos",
             "stars": 1860,
@@ -58,7 +58,7 @@
             "open_issues": 17,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "atomic",
               "command-line",
@@ -110,13 +110,13 @@
                     "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
                     "homepage": "https://bazzite.gg",
                     "id": 599731589,
-                    "language": "Just",
+                    "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T06:54:27Z",
-                    "open_issues": 1230,
+                    "last_commit": "2026-11-03T06:00:58Z",
+                    "open_issues": 1224,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9259,
+                    "stars": 9261,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -156,11 +156,11 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-02T03:09:53Z",
-                        "open_issues": 164,
+                        "last_commit": "2026-11-03T05:36:30Z",
+                        "open_issues": 165,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1103,
+                        "stars": 1104,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -213,7 +213,7 @@
                 "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5530,
+                "stars": 5531,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -248,7 +248,7 @@
             "open_issues": 158,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13098,
+            "stars": 13102,
             "topics": [
               "almalinux",
               "alpine",
@@ -290,7 +290,7 @@
             "open_issues": 412,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12438,
+            "stars": 12443,
             "topics": [
               "build-system",
               "build-tool",
@@ -428,7 +428,7 @@
             "open_issues": 254,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3534,
+            "stars": 3533,
             "topics": [
               "containers",
               "linux"
@@ -483,11 +483,11 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T08:06:06Z",
-            "open_issues": 372,
+            "last_commit": "2026-11-02T19:00:05Z",
+            "open_issues": 371,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2332,
+            "stars": 2333,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -526,11 +526,11 @@
             "id": 4614541,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T15:12:08Z",
+            "last_commit": "2026-11-02T13:25:21Z",
             "open_issues": 426,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1700,
+            "stars": 1701,
             "topics": [
               "ostree",
               "package-manager"
@@ -550,8 +550,8 @@
             "id": 448603390,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-09-07T01:22:12Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-02T11:32:01Z",
+            "open_issues": 21,
             "owner": "cilki",
             "repo": "goldboot",
             "stars": 640,
@@ -641,7 +641,7 @@
             "open_issues": 17,
             "owner": "arkanelinux",
             "repo": "arkdep",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "atomic",
               "command-line",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T08:22:42.978Z",
+    "last_updated": "2026-11-03T08:37:47.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
@@ -839,7 +839,7 @@
       "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1256,
+      "stars": 1255,
       "topics": [
         "abroot",
         "atomic",
