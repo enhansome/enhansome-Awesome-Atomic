@@ -15,11 +15,11 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T06:48:50Z",
-            "open_issues": 636,
+            "last_commit": "2026-11-08T00:27:37Z",
+            "open_issues": 639,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1862,
+            "stars": 1863,
             "topics": [
               "baremetal",
               "cloud",
@@ -110,13 +110,13 @@
                     "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
                     "homepage": "https://bazzite.gg",
                     "id": 599731589,
-                    "language": "Just",
+                    "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T00:28:17Z",
-                    "open_issues": 1083,
+                    "last_commit": "2026-11-08T02:18:18Z",
+                    "open_issues": 991,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9283,
+                    "stars": 9292,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -156,11 +156,11 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-07T05:29:01Z",
-                        "open_issues": 163,
+                        "last_commit": "2026-11-08T03:35:04Z",
+                        "open_issues": 137,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1109,
+                        "stars": 1110,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -213,7 +213,7 @@
                 "open_issues": 25,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5535,
+                "stars": 5537,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -248,7 +248,7 @@
             "open_issues": 158,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13101,
+            "stars": 13103,
             "topics": [
               "almalinux",
               "alpine",
@@ -483,11 +483,11 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T20:56:26Z",
-            "open_issues": 362,
+            "last_commit": "2026-11-08T00:39:00Z",
+            "open_issues": 367,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2337,
+            "stars": 2340,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -695,7 +695,7 @@
             "open_issues": 11,
             "owner": "sodaliterocks",
             "repo": "sodalite",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "elementary",
               "fedora",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:49:31.604Z",
+    "last_updated": "2026-11-08T08:01:18.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
