@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T08:04:03Z",
-                    "open_issues": 811,
+                    "last_commit": "2026-11-15T08:02:12Z",
+                    "open_issues": 818,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9346,
+                    "stars": 9351,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -156,11 +156,11 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-14T01:41:42Z",
+                        "last_commit": "2026-11-14T21:25:17Z",
                         "open_issues": 143,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1116,
+                        "stars": 1118,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -213,7 +213,7 @@
                 "open_issues": 27,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5548,
+                "stars": 5550,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -245,7 +245,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-02T06:53:12Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "89luca89",
             "repo": "distrobox",
             "stars": 13122,
@@ -290,7 +290,7 @@
             "open_issues": 414,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12460,
+            "stars": 12464,
             "topics": [
               "build-system",
               "build-tool",
@@ -425,7 +425,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-12T15:00:11Z",
-            "open_issues": 257,
+            "open_issues": 258,
             "owner": "containers",
             "repo": "toolbox",
             "stars": 3542,
@@ -483,8 +483,8 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T22:39:31Z",
-            "open_issues": 365,
+            "last_commit": "2026-11-15T00:38:45Z",
+            "open_issues": 368,
             "owner": "bootc-dev",
             "repo": "bootc",
             "stars": 2353,
@@ -530,7 +530,7 @@
             "open_issues": 431,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "ostree",
               "package-manager"
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:05:53.813Z",
+    "last_updated": "2026-11-15T08:28:37.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
