@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-21T07:17:48Z",
-            "open_issues": 566,
+            "open_issues": 565,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1870,
+            "stars": 1871,
             "topics": [
               "baremetal",
               "cloud",
@@ -110,13 +110,13 @@
                     "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
                     "homepage": "https://bazzite.gg",
                     "id": 599731589,
-                    "language": "Just",
+                    "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T08:48:25Z",
+                    "last_commit": "2026-11-22T08:39:24Z",
                     "open_issues": 832,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9386,
+                    "stars": 9395,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -156,8 +156,8 @@
                         "id": 686460804,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-20T01:20:07Z",
-                        "open_issues": 144,
+                        "last_commit": "2026-11-22T01:02:05Z",
+                        "open_issues": 147,
                         "owner": "secureblue",
                         "repo": "secureblue",
                         "stars": 1129,
@@ -213,7 +213,7 @@
                 "open_issues": 29,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5555,
+                "stars": 5558,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -248,7 +248,7 @@
             "open_issues": 159,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13132,
+            "stars": 13134,
             "topics": [
               "almalinux",
               "alpine",
@@ -290,7 +290,7 @@
             "open_issues": 461,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12477,
+            "stars": 12478,
             "topics": [
               "build-system",
               "build-tool",
@@ -428,7 +428,7 @@
             "open_issues": 257,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3546,
+            "stars": 3547,
             "topics": [
               "containers",
               "linux"
@@ -483,11 +483,11 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T20:41:44Z",
-            "open_issues": 372,
+            "last_commit": "2026-11-22T00:38:58Z",
+            "open_issues": 380,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2368,
+            "stars": 2370,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -527,10 +527,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T21:21:29Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "ostree",
               "package-manager"
@@ -587,7 +587,7 @@
             "open_issues": 28,
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "atomicity",
               "command-line",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:51:04.818Z",
+    "last_updated": "2026-11-22T08:53:45.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
