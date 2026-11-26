@@ -15,11 +15,11 @@
             "id": 391127422,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T01:56:50Z",
-            "open_issues": 531,
+            "last_commit": "2026-11-25T13:56:33Z",
+            "open_issues": 528,
             "owner": "kairos-io",
             "repo": "kairos",
-            "stars": 1873,
+            "stars": 1874,
             "topics": [
               "baremetal",
               "cloud",
@@ -112,11 +112,11 @@
                     "id": 599731589,
                     "language": "Shell",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T05:54:52Z",
-                    "open_issues": 835,
+                    "last_commit": "2026-11-25T17:08:23Z",
+                    "open_issues": 837,
                     "owner": "ublue-os",
                     "repo": "bazzite",
-                    "stars": 9409,
+                    "stars": 9414,
                     "topics": [
                       "bazzite",
                       "desktop",
@@ -160,7 +160,7 @@
                         "open_issues": 146,
                         "owner": "secureblue",
                         "repo": "secureblue",
-                        "stars": 1132,
+                        "stars": 1135,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:24:01.182Z"
@@ -177,7 +177,7 @@
                         "id": 736443919,
                         "language": "YAML",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-24T23:25:48Z",
+                        "last_commit": "2026-11-25T23:30:49Z",
                         "open_issues": 20,
                         "owner": "wayblueorg",
                         "repo": "wayblue",
@@ -213,7 +213,7 @@
                 "open_issues": 30,
                 "owner": "nix-community",
                 "repo": "awesome-nix",
-                "stars": 5563,
+                "stars": 5567,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -248,7 +248,7 @@
             "open_issues": 155,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 13137,
+            "stars": 13142,
             "topics": [
               "almalinux",
               "alpine",
@@ -290,7 +290,7 @@
             "open_issues": 463,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12478,
+            "stars": 12481,
             "topics": [
               "build-system",
               "build-tool",
@@ -324,7 +324,7 @@
                 "id": 532019194,
                 "language": "Dockerfile",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T22:32:25Z",
+                "last_commit": "2026-11-25T19:55:22Z",
                 "open_issues": 4,
                 "owner": "toolbx-images",
                 "repo": "images",
@@ -428,7 +428,7 @@
             "open_issues": 257,
             "owner": "containers",
             "repo": "toolbox",
-            "stars": 3547,
+            "stars": 3550,
             "topics": [
               "containers",
               "linux"
@@ -452,7 +452,7 @@
             "open_issues": 30,
             "owner": "Vanilla-OS",
             "repo": "apx",
-            "stars": 584,
+            "stars": 585,
             "topics": [
               "apx",
               "command-line",
@@ -483,11 +483,11 @@
             "id": 572685958,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T10:07:45Z",
-            "open_issues": 386,
+            "last_commit": "2026-11-26T09:55:50Z",
+            "open_issues": 383,
             "owner": "bootc-dev",
             "repo": "bootc",
-            "stars": 2375,
+            "stars": 2374,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:01.182Z"
@@ -509,7 +509,7 @@
                 "id": 160864066,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-19T16:48:42Z",
+                "last_commit": "2026-11-25T21:15:45Z",
                 "open_issues": 5,
                 "owner": "stb-tester",
                 "repo": "apt2ostree",
@@ -527,10 +527,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-24T19:26:16Z",
-            "open_issues": 431,
+            "open_issues": 432,
             "owner": "ostreedev",
             "repo": "ostree",
-            "stars": 1708,
+            "stars": 1710,
             "topics": [
               "ostree",
               "package-manager"
@@ -587,7 +587,7 @@
             "open_issues": 28,
             "owner": "Vanilla-OS",
             "repo": "ABRoot",
-            "stars": 397,
+            "stars": 399,
             "topics": [
               "atomicity",
               "command-line",
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T10:32:20.992Z",
+    "last_updated": "2026-11-26T10:04:05.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome curated knowledge-base about atomic systems",
@@ -839,7 +839,7 @@
       "open_issues": 27,
       "owner": "Malix-Labs",
       "repo": "Awesome-Atomic",
-      "stars": 1257,
+      "stars": 1259,
       "topics": [
         "abroot",
         "atomic",
